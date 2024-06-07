@@ -7,6 +7,6 @@ The weekly assignments demonstrate some basic implementations of the algorithms 
 
 ### Examples
 
-    - 1. DFT and FFT
-    - 2. DCT and DST
-    - 3. DWT
+1. DFT and FFT
+2. DCT and DST
+3. DWT
